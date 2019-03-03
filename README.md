@@ -38,3 +38,7 @@ npm run build
 ```
 npm run lint
 ```
+
+### extra notes & references.
+
+https://vuejs.org/v2/guide/forms.html
